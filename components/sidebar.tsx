@@ -40,7 +40,7 @@ const routes=[
 
 ]
 
-function sidebar() {
+function Sidebar() {
     const pathname = usePathname()
   return (
     <div className="space-y-4 
@@ -81,4 +81,4 @@ function sidebar() {
   )
 }
 
-export default sidebar
+export default Sidebar
