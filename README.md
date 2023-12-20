@@ -1,4 +1,4 @@
-An AI Platform built with Next.js 13, React, Tailwind usign external API from OpenAI and Replicate AI. Clerk is used for authenticating users.
+An AI Platform built with Next.js 13, React, Tailwind using external API from OpenAI and Replicate AI. Clerk is used for authenticating users.
 
 Features:
 
