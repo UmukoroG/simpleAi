@@ -1,5 +1,7 @@
 An AI Platform built with Next.js 13, React, Tailwind using external API from OpenAI and Replicate AI. Clerk is used for authenticating users.
 
+The Ui can be accessed here: https://simple-mwvvlzdtl-godbless-umukoros-projects.vercel.app/
+
 Features:
 
 - Tailwind design
